@@ -9,6 +9,8 @@ okay = "Darshan";
 bad = "Darshan"; // this will show error
 everyThing = "Darshan";
 
+let instantInitialize:string = "Lyo";
+
 // Arrays
 let strArr1: string[];
 let strArr2: Array<string>;
