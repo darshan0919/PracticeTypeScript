@@ -7,7 +7,7 @@ good = "Darshan";
 okay = "Darshan";
 bad = "Darshan"; // this will show error
 everyThing = "Darshan";
-let instantInitialize:string = "Lyo";
+var instantInitialize = "Lyo";
 // Arrays
 var strArr1;
 var strArr2;
