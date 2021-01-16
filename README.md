@@ -8,4 +8,4 @@
 * const & let are block level variables, and can only be declared once in the scope.
 * const variable must be assigned value when declared.
 
-* [Codevolution-Tutorials](#https://github.com/gopinav/TypeScript-Tutorial/blob/master/Code/main.ts)
+* [Codevolution-Tutorials](https://github.com/gopinav/TypeScript-Tutorial/blob/master/Code/main.ts)
